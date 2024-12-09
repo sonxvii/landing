@@ -1,0 +1,45 @@
+﻿body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #f9f9f9;
+    color: #333;
+}
+
+header {
+    background-color: #ff6f61;
+    color: white;
+    text-align: center;
+    padding: 2rem;
+}
+
+header .start-btn {
+    background-color: white;
+    color: #ff6f61;
+    border: none;
+    padding: 0.5rem 1rem;
+    font-size: 1.2rem;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+header .start-btn:hover {
+    background-color: #f5f5f5;
+}
+
+section {
+    padding: 2rem;
+    text-align: center;
+}
+
+.feature, .review {
+    margin: 1rem 0;
+}
+
+footer {
+    text-align: center;
+    background-color: #333;
+    color: white;
+    padding: 1rem 0;
+}
